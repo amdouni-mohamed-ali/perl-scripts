@@ -1,5 +1,7 @@
 #!/usr/bin/perl
 
+#arrays operations
+
 @ranks=(1..10);
 @alphabets=(a..z);
 
